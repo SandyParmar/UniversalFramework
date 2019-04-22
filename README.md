@@ -4,77 +4,78 @@
 ## Create universal framework setup by setup
 
 ## Setup 1
-
-![github-small](https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/1.png)
+<img src="https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/1.png" width="80%" />
 
 ## Setup 2
 
-![github-small](https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/2.png)
+<img src="https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/2.png" width="80%" />
 
 ## Setup 3
 
-![github-small](https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/3.png)
+<img src="https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/3.png" width="80%" />
 
 ## Setup 4
 
-![github-small](https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/4.png)
+<img src="https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/4.png" width="80%" />
 
 ## Setup 5
 
-![github-small](https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/5.png)
+<img src="https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/5.png" width="80%" />
 
 ## Setup 6
 
-![github-small](https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/6.png)
+<img src="https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/6.png" width="80%" />
 
 ## Setup 7
 
-![github-small](https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/7.png)
+<img src="https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/7.png" width="80%" />
 
 ## Setup 8
 
-![github-small](https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/8.png)
+<img src="https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/8.png" width="80%" />
 
 ## Setup 9
 
-![github-small](https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/9.png)
+<img src="https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/9.png" width="80%" />
 
 ## Setup 10
 
-![github-small](https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/10.png)
+<img src="https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/10.png" width="80%" />
 
 ## Setup 11
 
-![github-small](https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/11.png)
+<img src="https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/11.png" width="80%" />
 
 ## Setup 12
 
-![github-small](https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/12.png)
+<img src="https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/12.png" width="80%" />
 
 ## Setup 13
 
-![github-small](https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/13.png)
+<img src="https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/13.png" width="80%" />
 
 ## Setup 14
 
-![github-small](https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/14.png)
+<img src="https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/14.png" width="80%" />
 
 ## Setup 15
 
-![github-small](https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/15.png)
+<img src="https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/15.png" width="80%" />
+<a href="https://github.com/SandyParmar/UniversalFramework/blob/master/Script%20Files/SPValidatorFramework">Run Actions Script</a>
 
 ## Setup 16
 
-![github-small](https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/16.png)
+<img src="https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/16.png" width="80%" />
 
 ## Setup 17
 
-![github-small](https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/17.png)
+<img src="https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/17.png" width="80%" />
+<a href="https://github.com/SandyParmar/UniversalFramework/blob/master/Script%20Files/PostActions">Post Actions Script</a>
 
 ## Setup 18
 
-![github-small](https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/18.png)
+<img src="https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/18.png" width="80%" />
 
 ## Setup 19
 
-![github-small](https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/19.png)
+<img src="https://github.com/SandyParmar/UniversalFramework/blob/master/setupsImages/19.png" width="80%" />
